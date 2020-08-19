@@ -1,2 +1,2 @@
-# code-snippets
-Collection of code snippet components for use elsewhere
+# webpack_template
+A template folder structure for a webpack build
